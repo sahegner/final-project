@@ -32,4 +32,16 @@ ul {
     border-style: solid;
     border-radius: 10%;
     border-color: black;
+    background-color: rgb(243, 255, 226);
+}
+
+a:link, a:visited{
+    text-decoration: none;
+    line-height: 1.6;
+    color: rgb(0, 0, 0);
+}
+
+a:hover {
+    text-decoration: underline;
+    color: rgb(255, 0, 0);
 }
